@@ -1,0 +1,42 @@
+.bgimg {
+  background-image: url('C:/Users/Usuario/Documents/repositorio-tstlc/fondo.jpg');
+  min-height: 160%;
+  background-position: center;
+  background-size: cover;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.prepage1 {
+    position: fixed;
+    bottom: 10px; /* Espacio desde el borde inferior */
+    left: 10px; /* Espacio desde el borde izquierdo */
+    z-index: 9999; /* Asegurar que esté por encima de otros elementos */
+}
+
+.prepage2    {
+    position: fixed;
+    bottom: 10px; /* Espacio desde el borde inferior */
+    left: 10px; /* Espacio desde el borde izquierdo */
+    z-index: 9999; /* Asegurar que esté por encima de otros elementos */
+}
+
+.nexpage1 {
+    
+        position: fixed;
+        bottom: 10px; /* Espacio desde el borde inferior */
+        right: 10px; /* Espacio desde el borde izquierdo */
+        z-index: 9999; /* Asegurar que esté por encima de otros elementos */
+    
+}
+
+.nexpage2 {
+    
+        position: fixed;
+        bottom: 10px; /* Espacio desde el borde inferior */
+        right: 10px; /* Espacio desde el borde izquierdo */
+        z-index: 9999; /* Asegurar que esté por encima de otros elementos */
+    
+}
